@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #1676d2;
+  --brand-deep: #0c3f72;
+  --brand-soft: #eaf4ff;
+  --accent: #ff8a65;
+  --accent-soft: #fff1eb;
+  --ink: #103152;
+  --muted: #69829b;
+  --surface: rgba(255, 255, 255, 0.84);
+  --surface-strong: rgba(255, 255, 255, 0.94);
+  --line: rgba(16, 49, 82, 0.09);
+}
+
+html, body {
+  scroll-behavior: auto !important;
+}
