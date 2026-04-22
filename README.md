@@ -1,4 +1,4 @@
-# ABC Hospital Command Center
+# Doctera smart Hospital Command Center
 
 Full-stack hospital management demo with:
 
